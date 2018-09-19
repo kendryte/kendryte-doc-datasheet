@@ -1,0 +1,27 @@
+{
+    "plugins": [
+        "-highlight",
+        "prism",
+        "footnote-string-to-number",
+        "search-pro",
+        "anchors",
+        "flow",
+        "sequence",
+        "uml",
+        "katex-plus",
+        "echarts"
+    ],
+    "pdf": {
+        "margin": {
+            "top": 36,
+            "bottom": 36
+        },
+        "toc": true
+    },
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "title": "Kendryte 数据手册",
+    "language": "zh-hans"
+}
