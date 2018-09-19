@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="kendryte" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" sodipodi:docname="kendryte_arch.svg" inkscape:version="0.92.3 (2405546, 2018-03-11)"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-62 197.9 470.5 446"
+	 style="enable-background:new -62 197.9 470.5 446;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFF2CC;stroke:#D6B656;stroke-dasharray:3,3;}
+	.st1{fill:#DAE8FC;stroke:#6C8EBF;}
+	.st2{font-family:'Inziu-IosevkaCC-SC-Regular';}
+	.st3{font-size:12px;}
+	.st4{fill:#D5E8D4;stroke:#82B366;}
+	.st5{fill:#FFE6CC;stroke:#D79B00;}
+	.st6{fill:#E1D5E7;stroke:#9673A6;}
+	.st7{font-size:16px;}
+</style>
+<g id="g178" transform="translate(0.5,0.5)">
+	<rect id="rect6" x="-62.3" y="197.9" pointer-events="none" class="st0" width="470" height="445"/>
+	<rect id="rect8" x="297.8" y="222.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g12" transform="translate(389.5,33.5)">
+		<text id="text10" transform="matrix(1 0 0 1 -62.5977 209.87)" class="st2 st3">GPIO</text>
+	</g>
+	<rect id="rect14" x="297.8" y="262.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g18" transform="translate(388.5,73.5)">
+		<text id="text16" transform="matrix(1 0 0 1 -61.5977 209.87)" class="st2 st3">UART</text>
+	</g>
+	<rect id="rect20" x="297.8" y="302.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g24" transform="translate(394.5,113.5)">
+		<text id="text22" transform="matrix(1 0 0 1 -67.5977 209.87)" class="st2 st3">SPI</text>
+	</g>
+	<rect id="rect26" x="297.8" y="382.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g30" transform="translate(396.5,193.5)">
+		<text id="text28" transform="matrix(1 0 0 1 -69.5977 209.87)" class="st2 st3">I²S</text>
+	</g>
+	<rect id="rect32" x="297.8" y="422.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g36" transform="translate(396.5,233.5)">
+		<text id="text34" transform="matrix(1 0 0 1 -69.5977 209.87)" class="st2 st3">I²C</text>
+	</g>
+	<rect id="rect38" x="-42.3" y="422.9" pointer-events="none" class="st1" width="90" height="70"/>
+	<g id="g42" transform="translate(46.5,253.5)">
+		<text id="text40" transform="matrix(1 0 0 1 -54.5695 209.87)" class="st2 st3">FPIOA</text>
+	</g>
+	<rect id="rect44" x="297.8" y="582.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g48" transform="translate(382.5,393.5)">
+		<text id="text46" transform="matrix(1 0 0 1 -55.5977 209.87)" class="st2 st3">SHA256</text>
+	</g>
+	<rect id="rect50" x="297.8" y="462.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g54" transform="translate(389.5,273.5)">
+		<text id="text52" transform="matrix(1 0 0 1 -62.5977 209.87)" class="st2 st3">Timer</text>
+	</g>
+	<rect id="rect56" x="57.8" y="397.9" pointer-events="none" class="st4" width="230" height="95"/>
+	<g id="g64" transform="translate(226.82415,234.91737)">
+		<text transform="matrix(1 0 0 1 -62.9532 202.9724)" class="st2 st3">KPU</text>
+	</g>
+	<rect id="rect66" x="155.6" y="502.9" pointer-events="none" class="st4" width="132.1" height="110"/>
+	<g id="g74" transform="translate(285.76907,347.91738)">
+		<text transform="matrix(1 0 0 1 -78.2866 202.9501)" class="st2 st3">APU</text>
+	</g>
+	<rect id="rect76" x="57.8" y="222.9" pointer-events="none" class="st4" width="230" height="165"/>
+	<rect id="rect78" x="67.8" y="266.9" pointer-events="none" class="st5" width="100" height="105"/>
+	<g id="g86" transform="translate(159.5,107.5)">
+		<text transform="matrix(1 0 0 1 -58.2451 201.87)" class="st2 st3">RISC-V</text>
+		<text transform="matrix(1 0 0 1 -58.2451 216.27)" class="st2 st3">64bit</text>
+	</g>
+	<rect id="rect88" x="-42.3" y="302.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g92" transform="translate(49.5,113.5)">
+		<text id="text90" transform="matrix(1 0 0 1 -57.5695 209.87)" class="st2 st3">JTAG</text>
+	</g>
+	<rect id="rect94" x="177.8" y="266.9" pointer-events="none" class="st5" width="100" height="105"/>
+	<g id="g102" transform="translate(269.5,107.5)">
+		<text transform="matrix(1 0 0 1 -64.2832 201.8701)" class="st2 st3">RISC-V</text>
+		<text transform="matrix(1 0 0 1 -64.2832 216.2701)" class="st2 st3">64bit</text>
+	</g>
+	<g id="g106" transform="translate(131.5,37.5)">
+		<text id="text104" transform="matrix(1 0 0 1 -61.918 209.87)" class="st2 st3">CPU</text>
+	</g>
+	<rect id="rect108" x="297.8" y="342.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g112" transform="translate(392.5,153.5)">
+		<text id="text110" transform="matrix(1 0 0 1 -65.5977 209.87)" class="st2 st3">RTC</text>
+	</g>
+	<rect id="rect114" x="-42.3" y="502.9" pointer-events="none" class="st1" width="90" height="110"/>
+	<g id="g118" transform="translate(47.5,353.5)">
+		<text id="text116" transform="matrix(1 0 0 1 -55.5695 209.87)" class="st2 st3">SRAM</text>
+	</g>
+	<rect id="rect120" x="-42.3" y="262.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g124" transform="translate(52.5,73.5)">
+		<text id="text122" transform="matrix(1 0 0 1 -60.5695 209.87)" class="st2 st3">DVP</text>
+	</g>
+	<rect id="rect126" x="57.8" y="502.9" pointer-events="none" class="st1" width="85.8" height="110"/>
+	<g id="g130" transform="translate(163.5,353.5)">
+		<text id="text128" transform="matrix(1 0 0 1 -75.2451 209.8702)" class="st2 st3">FFT</text>
+	</g>
+	<rect id="rect132" x="-42.3" y="223.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g136" transform="translate(51.5,34.5)">
+		<text id="text134" transform="matrix(1 0 0 1 -59.5695 209.87)" class="st2 st3">DMA</text>
+	</g>
+	<rect id="rect138" x="-42.3" y="342.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g142" transform="translate(52.5,153.5)">
+		<text id="text140" transform="matrix(1 0 0 1 -60.5695 209.87)" class="st2 st3">AES</text>
+	</g>
+	<rect id="rect144" x="297.8" y="542.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g148" transform="translate(390.5,353.5)">
+		<text id="text146" transform="matrix(1 0 0 1 -63.5977 209.87)" class="st2 st3">WDT</text>
+	</g>
+	<rect id="rect150" x="297.8" y="502.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g154" transform="translate(389.5,313.5)">
+		<text id="text152" transform="matrix(1 0 0 1 -62.5977 209.87)" class="st2 st3">PWM</text>
+	</g>
+	<rect id="rect156" x="-42.3" y="382.9" pointer-events="none" class="st1" width="90" height="30"/>
+	<g id="g160" transform="translate(52.5,193.5)">
+		<text id="text158" transform="matrix(1 0 0 1 -60.5695 209.87)" class="st2 st3">OTP</text>
+	</g>
+	<rect id="rect162" x="75.3" y="337.9" pointer-events="none" class="st6" width="85" height="30"/>
+	<g id="g166" transform="translate(167.5,148.5)">
+		<text id="text164" transform="matrix(1 0 0 1 -62.25 209.87)" class="st2 st3">FPU</text>
+	</g>
+	<rect id="rect168" x="185.3" y="337.9" pointer-events="none" class="st6" width="85" height="30"/>
+	<g id="g172" transform="translate(277.5,148.5)">
+		<text id="text170" transform="matrix(1 0 0 1 -62.25 209.87)" class="st2 st3">FPU</text>
+	</g>
+	<g id="g176" transform="translate(181.5,421.5)">
+		<text id="text174" transform="matrix(1 0 0 1 -62.1758 214.87)" class="st2 st7">Kendryte K210</text>
+	</g>
+	<g id="g64-7" transform="translate(166.6719,252.71264)">
+		<text transform="matrix(1 0 0 1 -36.023 210.6572)" class="st2 st3">CNN Accelerator</text>
+	</g>
+	<g id="g74-2" transform="translate(245.91394,351.12637)">
+		<text transform="matrix(1 0 0 1 -75.8978 223.747)" class="st2 st3">Audio Accelerator</text>
+	</g>
+</g>
+</svg>
