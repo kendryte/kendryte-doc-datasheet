@@ -11,7 +11,7 @@ npm install gitbook-cli -g
 Clone this project.
 
 ```bash
-git clone https://github.com/kendryte/kendryte-doc-ds.git
+git clone https://github.com/kendryte/kendryte-doc-datasheet.git
 ```
 
 Build this project and view it in web browser, ``$LANG`` is your current language.
