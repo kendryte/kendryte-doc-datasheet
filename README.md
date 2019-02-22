@@ -1,5 +1,7 @@
 # KENDRYTE DOCUMENT PROJECT
 
+[![Build Status](https://travis-ci.org/kendryte/kendryte-doc-datasheet.svg)](https://travis-ci.org/kendryte/kendryte-doc-datasheet)
+
 ## How to build
 
 Install gitbook.

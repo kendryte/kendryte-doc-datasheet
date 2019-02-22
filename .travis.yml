@@ -1,0 +1,16 @@
+language: node_js
+
+sudo: true
+
+node_js:
+  - "10"
+
+cache: npm
+
+install:
+  - npm install -g markdownlint-cli
+
+script:
+  - markdownlint --config .markdownlint.json -i en/node_modules en/
+  - markdownlint --config .markdownlint.json -i zh-Hans/node_modules zh-Hans/
+  - markdownlint --config .markdownlint.json -i zh-Hant/node_modules zh-Hant/
