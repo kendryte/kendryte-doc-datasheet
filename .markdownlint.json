@@ -9,5 +9,6 @@
         "fenced-code-language": true,
         "first-line-h1": true,
         "no-duplicate-heading":false,
-        "no-emphasis-as-heading":false
+        "no-emphasis-as-heading":false,
+        "single-trailing-newline":false
 }
