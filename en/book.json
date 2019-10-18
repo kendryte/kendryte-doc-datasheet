@@ -7,7 +7,6 @@
         "anchors",
         "flow",
         "sequence",
-        "uml",
         "katex-plus",
         "echarts"
     ],
